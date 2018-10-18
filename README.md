@@ -1,2 +1,0 @@
-# HomeworkSDA
-HomeworkSDA
